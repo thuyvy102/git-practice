@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là <Châu Thị Thúy Vy>, MSSV <220528>.
+Giới thiệu: Tôi là Châu Thị Thúy Vy, MSSV 220528.
